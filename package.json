@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-docker-web",
+  "private": true,
+  "version": "0.0.1",
+  "description": "test nodejs web application",
+  "main": "app.js",
+  "author": "pavansdevops@gmail.com",
+  "license": "NA",
+  "dependencies": {
+    "express": "4.16.3",
+    "pug": "2.0.3"
+  }
+}
